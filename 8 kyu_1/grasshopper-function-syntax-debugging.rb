@@ -1,0 +1,6 @@
+#Kata: Grasshopper - Function syntax debugging
+#URL: https://www.codewars.com/kata/56dae9dc54c0acd29d00109a
+
+def main(verb, noun)
+  return verb + noun
+end
