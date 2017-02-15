@@ -1,5 +1,5 @@
 #Kata: MOD 256 without the MOD operator
-#URL: https://www.codewars.com/kata/mod-256-without-the-mod-operator
+#URL: https://www.codewars.com/kata/581e1d083a4820eb4f00004f
 
 def mod256_without_mod(number)
   a = number.abs
